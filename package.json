@@ -1,0 +1,25 @@
+
+// This contains all the NPM packages and dependences for the project.
+// Node Package Manager is a command you can run from the console and run various things for the project
+// "Twit" is the twitter API package, install it in a package.json file for every npm file.  This is the settings file essentially.
+// 
+
+// This is just the information section for the npm package.json
+{
+    "name": "wills_npm",
+    "version": "1.0.0",
+    "description": "Set up for first npm package for class work",
+    "main": "liri.js",
+    "scripts": {},
+    "keywords": [
+        
+    ],
+    "author": "",
+    "liscense": "ISC"
+}
+
+
+
+
+
+
