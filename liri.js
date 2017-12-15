@@ -35,4 +35,17 @@ console.log(data);
 });
 
 
+//  the movie database should be along the same lines as the other 2.
+//  my problem is the documentation just confuses me on most APIS.  I understand what API's are and all
+//  but making them work just flat out confuses me.  I spent 3 days just trying to get twitter to work to find out
+//  the node package I first used was wrong.  It works outside of filtering out the correct data.
+//  The other thing I was unsure of was how the program would run through the program and pick the right function
+//  based on the user input.  Do you do if statements?  I would understand this in regular JS but node is just still a 
+//  weird concept to me.  It doesnt even seem like JS but so much more C based language.  Im working through the node js tutorials
+//  on youtube now (the ones linked through the resource tab) so hopefully this will help.  
+//  There just seems to be so much stuff we dont cover through node that we have to pick up through crappy examples and 
+//  documentation online (as to be expected)
+
+
+
 
